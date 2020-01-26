@@ -1,0 +1,3 @@
+block blobber spawns in blobber leader mission
+Burrower should probably not be able to dig up somewhere it cannot be redirected to any safe attack direction.
+Burrower should not attack twice
